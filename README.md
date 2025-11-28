@@ -1,6 +1,6 @@
 # Andrea Khan – Portfolio Website
 
-Welcome to the repository containing the source code for my personal portfolio website!
+Welcome to my personal portfolio repository!
 
 I am a **senior frontend software engineer based in New York**, with **3+ years of professional experience building applications in React**. This site is a living showcase of my work, experience, and experiments in modern frontend development.
 
